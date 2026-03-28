@@ -200,7 +200,7 @@ export default function Header({ theme, toggleTheme }) {
   
           {/* 🔥 VIEW RESUME */}
           <a
-            href="/public/resume.pdf"
+            href="/resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="resume-btn"
@@ -210,7 +210,7 @@ export default function Header({ theme, toggleTheme }) {
 
           {/* 🔥 DOWNLOAD RESUME */}
           <a
-            href="/public/resume.pdf"
+            href="/resume.pdf"
             download
             className="resume-btn download"
           >
